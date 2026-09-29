@@ -1,0 +1,282 @@
+[
+ {
+  "nome": "Alfa Look's Lemon — Loção Pós Barba",
+  "categoria": "Pós-barba",
+  "descricao": "350ml",
+  "imagem": "assets/produtos/0200.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's Menthol — Loção Pós Barba",
+  "categoria": "Pós-barba",
+  "descricao": "350ml",
+  "imagem": "assets/produtos/0193.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's Menthol — Loção Pós Barba (kit)",
+  "categoria": "Pós-barba",
+  "descricao": "350ml",
+  "imagem": "assets/produtos/0191.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's Element — Pomada Modeladora",
+  "categoria": "Pomadas e géis",
+  "descricao": "Alta fixação · Sem álcool · 150g",
+  "imagem": "assets/produtos/0195.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's Lemon — Loção Pós Barba",
+  "categoria": "Pós-barba",
+  "descricao": "240ml",
+  "imagem": "assets/produtos/0185.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's Grooming",
+  "categoria": "Cabelo",
+  "descricao": "Preparação e finalização do cabelo · 240ml",
+  "imagem": "assets/produtos/0192.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's Lemon — Loção Pós Barba (refil)",
+  "categoria": "Pós-barba",
+  "descricao": "Refil · 1L",
+  "imagem": "assets/produtos/0197.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's Black — Pomada Modeladora",
+  "categoria": "Pomadas e géis",
+  "descricao": "150g",
+  "imagem": "assets/produtos/0189.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's Menthol — Creme Pós Barba",
+  "categoria": "Pós-barba",
+  "descricao": "",
+  "imagem": "assets/produtos/0177.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Pós Barba",
+  "categoria": "Pós-barba",
+  "descricao": "Efeito refrescante · 250g",
+  "imagem": "assets/produtos/0198.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Dr. Shaving Barbershop",
+  "categoria": "Barba",
+  "descricao": "1kg",
+  "imagem": "assets/produtos/0181.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's — Creme Pós Barba Menthol e Creme Esfoliante Pré Barba Lemon",
+  "categoria": "Barba",
+  "descricao": "350g",
+  "imagem": "assets/produtos/0194.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Balm para Barba",
+  "categoria": "Barba",
+  "descricao": "Hidratação e nutrição · 250g",
+  "imagem": "assets/produtos/0188.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Shampoo 2 em 1 Cabelo e Barba",
+  "categoria": "Cabelo",
+  "descricao": "500ml",
+  "imagem": "assets/produtos/0179.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Gel Profissional",
+  "categoria": "Pomadas e géis",
+  "descricao": "250g",
+  "imagem": "assets/produtos/0199.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Gel Cera Hidratante",
+  "categoria": "Pomadas e géis",
+  "descricao": "Ultra fixação · Sem álcool · 300g",
+  "imagem": "assets/produtos/0172.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Pomada em Pó",
+  "categoria": "Pomadas e géis",
+  "descricao": "Efeito matte · 15g",
+  "imagem": "assets/produtos/0203.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Gel Super Cola",
+  "categoria": "Pomadas e géis",
+  "descricao": "300g",
+  "imagem": "assets/produtos/0202.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Pomada Incolor",
+  "categoria": "Pomadas e géis",
+  "descricao": "150g",
+  "imagem": "assets/produtos/0190.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Fox For Men — Pasta Premium",
+  "categoria": "Pomadas e géis",
+  "descricao": "Fixação extra forte · 80g",
+  "imagem": "assets/produtos/0039.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's — Pomada Modeladora For Men",
+  "categoria": "Pomadas e géis",
+  "descricao": "Uso profissional · 150g",
+  "imagem": "assets/produtos/0184.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Fox For Men — Linha de pastas e wax",
+  "categoria": "Pomadas e géis",
+  "descricao": "",
+  "imagem": "assets/produtos/0040.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Pomada Black",
+  "categoria": "Pomadas e géis",
+  "descricao": "150g",
+  "imagem": "assets/produtos/0196.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Vip Hair — Pomada Modeladora",
+  "categoria": "Pomadas e géis",
+  "descricao": "130g",
+  "imagem": "assets/produtos/0180.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Fox For Men — Gel Cola",
+  "categoria": "Pomadas e géis",
+  "descricao": "Fixação extra forte",
+  "imagem": "assets/produtos/0037.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Beard Oil",
+  "categoria": "Barba",
+  "descricao": "60ml",
+  "imagem": "assets/produtos/0178.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Pomada Matte",
+  "categoria": "Pomadas e géis",
+  "descricao": "150g",
+  "imagem": "assets/produtos/0183.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Fox For Men — Pasta Orange",
+  "categoria": "Pomadas e géis",
+  "descricao": "Fixação forte · Incolor",
+  "imagem": "assets/produtos/0038.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Gromming",
+  "categoria": "Cabelo",
+  "descricao": "Volume e textura · 250g",
+  "imagem": "assets/produtos/0186.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Pomada Caramelo",
+  "categoria": "Pomadas e géis",
+  "descricao": "150g",
+  "imagem": "assets/produtos/0176.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Vip Hair — Pomada Modeladora Teia",
+  "categoria": "Pomadas e géis",
+  "descricao": "130g",
+  "imagem": "assets/produtos/0174.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's Prime — Pomada Efeito Matte",
+  "categoria": "Pomadas e géis",
+  "descricao": "",
+  "imagem": "assets/produtos/0182.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Minoxidil 8%",
+  "categoria": "Barba",
+  "descricao": "Tônico para cabelo e barba · 60ml",
+  "imagem": "assets/produtos/0187.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Two Brothers — Pomada Teia",
+  "categoria": "Pomadas e géis",
+  "descricao": "150g",
+  "imagem": "assets/produtos/0173.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ },
+ {
+  "nome": "Alfa Look's — Pomada Teia For Men",
+  "categoria": "Pomadas e géis",
+  "descricao": "150g",
+  "imagem": "assets/produtos/0175.jpg",
+  "preco": null,
+  "disponibilidade": "consultar"
+ }
+]

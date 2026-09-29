@@ -1,0 +1,51 @@
+{
+ "nome": "BARBEARIA NAZARO",
+ "whatsapp": "554199196309",
+ "dev_whatsapp": "5541996523235",
+ "instagram": "https://www.instagram.com/nazarobarbearia",
+ "endereco": "Rua Silvino Trípole, 29 — Alexandra, Paranaguá, PR",
+ "busca_mapa": "Rua Silvino Trípole 29 Paranaguá PR",
+ "contador": {
+  "ativo": true,
+  "namespace": "barbearia-nazaro-site",
+  "chave": "visitas"
+ },
+ "sobre": {
+  "texto": "Somos a Barbearia Nazaro, em Alexandra. Atendemos dos 3 aos 99 anos: cortes, barba, desenhos, luzes e platinado."
+ },
+ "fotos": [],
+ "msg": {
+  "padrao": "Olá! Gostaria de obter mais informações sobre a Barbearia Nazaro.",
+  "local": "Olá! Gostaria de saber onde fica a Barbearia Nazaro.",
+  "corte": "Olá! Vi um corte no portfólio da Barbearia Nazaro e gostaria de saber mais sobre ele.",
+  "produto": "Olá! Gostaria de saber se o produto [NOME DO PRODUTO] está disponível na Barbearia Nazaro.",
+  "duvida": "Olá! Gostaria de tirar uma dúvida sobre a Barbearia Nazaro.",
+  "dev": "Olá! Vi o site da Barbearia Nazaro e gostaria de falar com o desenvolvedor."
+ },
+ "duvidas": [
+  {
+   "rotulo": "📍 Onde fica?",
+   "msg": "Olá! Gostaria de saber onde fica a Barbearia Nazaro."
+  },
+  {
+   "rotulo": "✂️ Vocês fazem este corte?",
+   "msg": "Olá! Gostaria de saber se vocês fazem um corte que vi."
+  },
+  {
+   "rotulo": "🛍️ Este produto está disponível?",
+   "msg": "Olá! Gostaria de saber se um produto está disponível na Barbearia Nazaro."
+  },
+  {
+   "rotulo": "📅 Como funciona o atendimento?",
+   "msg": "Olá! Gostaria de saber como funciona o atendimento na Barbearia Nazaro."
+  },
+  {
+   "rotulo": "💳 Quais formas de pagamento são aceitas?",
+   "msg": "Olá! Gostaria de saber quais formas de pagamento a Barbearia Nazaro aceita."
+  },
+  {
+   "rotulo": "❓ Outra dúvida",
+   "msg": "Olá! Gostaria de tirar uma dúvida sobre a Barbearia Nazaro."
+  }
+ ]
+}
